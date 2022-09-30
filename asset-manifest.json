@@ -1,21 +1,39 @@
 {
   "files": {
     "main.css": "/plant-website-react/static/css/main.529de48c.css",
-    "main.js": "/plant-website-react/static/js/main.2f440437.js",
+    "main.js": "/plant-website-react/static/js/main.c19d1c06.js",
     "static/js/787.a9febbf0.chunk.js": "/plant-website-react/static/js/787.a9febbf0.chunk.js",
     "static/media/wallpaper2.png": "/plant-website-react/static/media/wallpaper2.26a5619edcae4ff531bc.png",
+    "static/media/5.png": "/plant-website-react/static/media/5.57e20d6dbe66075c9a3c.png",
+    "static/media/7.png": "/plant-website-react/static/media/7.1512f4b4b17108729fef.png",
     "static/media/wallpapercontact.png": "/plant-website-react/static/media/wallpapercontact.ac99d4ea0817cf63e2eb.png",
     "static/media/wallpaper4.png": "/plant-website-react/static/media/wallpaper4.0997c9271ec31acc5e5a.png",
+    "static/media/8.png": "/plant-website-react/static/media/8.8c11348c1e5e721d3c28.png",
     "static/media/wallpaper.png": "/plant-website-react/static/media/wallpaper.46b358818c6988ad7b39.png",
+    "static/media/4.png": "/plant-website-react/static/media/4.19c367e5e9eb7ca5afe5.png",
+    "static/media/1.png": "/plant-website-react/static/media/1.ad30fec6889331c5cfcf.png",
+    "static/media/2.png": "/plant-website-react/static/media/2.4d141dd6e364da57c799.png",
+    "static/media/9.png": "/plant-website-react/static/media/9.d6b5ace344f5336a12e7.png",
+    "static/media/3.png": "/plant-website-react/static/media/3.7ce3fc19e04fec19e1a2.png",
     "static/media/wallpaper1.png": "/plant-website-react/static/media/wallpaper1.3b984691f5ee86293f47.png",
     "static/media/wallpaper3.png": "/plant-website-react/static/media/wallpaper3.a7d2ceb7e91035386a8d.png",
+    "static/media/6.png": "/plant-website-react/static/media/6.f8019ed2f2e1bf0874ff.png",
+    "static/media/ss4.png": "/plant-website-react/static/media/ss4.4303c1b050b48ba3b11c.png",
+    "static/media/ss1.png": "/plant-website-react/static/media/ss1.cad1caeb24f0f0de5101.png",
+    "static/media/ss2.png": "/plant-website-react/static/media/ss2.1accad625d3aa05e7adf.png",
+    "static/media/ss3.png": "/plant-website-react/static/media/ss3.962150a7bedd9f21dd35.png",
+    "static/media/plant3.png": "/plant-website-react/static/media/plant3.a13491a2969f389f4538.png",
+    "static/media/plant2.png": "/plant-website-react/static/media/plant2.b2f0bf00d05971f6a4dc.png",
+    "static/media/plant1.png": "/plant-website-react/static/media/plant1.24daec4780212df1f0f8.png",
+    "static/media/Logo.png": "/plant-website-react/static/media/Logo.d258520c6b662e377def.png",
+    "static/media/contact.png": "/plant-website-react/static/media/contact.b384456119f05f129558.png",
     "index.html": "/plant-website-react/index.html",
     "main.529de48c.css.map": "/plant-website-react/static/css/main.529de48c.css.map",
-    "main.2f440437.js.map": "/plant-website-react/static/js/main.2f440437.js.map",
+    "main.c19d1c06.js.map": "/plant-website-react/static/js/main.c19d1c06.js.map",
     "787.a9febbf0.chunk.js.map": "/plant-website-react/static/js/787.a9febbf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.529de48c.css",
-    "static/js/main.2f440437.js"
+    "static/js/main.c19d1c06.js"
   ]
 }
