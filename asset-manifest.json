@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/plant-website-react/static/css/main.529de48c.css",
+    "main.js": "/plant-website-react/static/js/main.2f440437.js",
+    "static/js/787.a9febbf0.chunk.js": "/plant-website-react/static/js/787.a9febbf0.chunk.js",
+    "static/media/wallpaper2.png": "/plant-website-react/static/media/wallpaper2.26a5619edcae4ff531bc.png",
+    "static/media/wallpapercontact.png": "/plant-website-react/static/media/wallpapercontact.ac99d4ea0817cf63e2eb.png",
+    "static/media/wallpaper4.png": "/plant-website-react/static/media/wallpaper4.0997c9271ec31acc5e5a.png",
+    "static/media/wallpaper.png": "/plant-website-react/static/media/wallpaper.46b358818c6988ad7b39.png",
+    "static/media/wallpaper1.png": "/plant-website-react/static/media/wallpaper1.3b984691f5ee86293f47.png",
+    "static/media/wallpaper3.png": "/plant-website-react/static/media/wallpaper3.a7d2ceb7e91035386a8d.png",
+    "index.html": "/plant-website-react/index.html",
+    "main.529de48c.css.map": "/plant-website-react/static/css/main.529de48c.css.map",
+    "main.2f440437.js.map": "/plant-website-react/static/js/main.2f440437.js.map",
+    "787.a9febbf0.chunk.js.map": "/plant-website-react/static/js/787.a9febbf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529de48c.css",
+    "static/js/main.2f440437.js"
+  ]
+}
